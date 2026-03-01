@@ -1,6 +1,6 @@
 # WKET — Wick-Klein Erlangen Transform
 
-**The Imaginary Circle: Wick Rotation, Klein's Erlangen Program, and the Projective Geometry of Learning Phase Transitions**  
+> Imaginary Circle: Wick Rotation, Klein's Erlangen Program, and Projective Geometry of Learning Phase Transitions.
 *Bridge VI: From Imaginary Time and the Circular Points at Infinity to the Geometry of Grokking*
 
 ---
